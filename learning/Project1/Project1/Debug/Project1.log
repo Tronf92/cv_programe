@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\users\ady\desktop\learning\project1\project1\source.cpp(15): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+c:\users\ady\desktop\learning\project1\project1\source.cpp(16): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+  Project1.vcxproj -> C:\Users\Ady\Desktop\learning\Project1\Debug\Project1.exe

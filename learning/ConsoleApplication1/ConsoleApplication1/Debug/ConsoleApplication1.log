@@ -1,0 +1,16 @@
+﻿  ConsoleApplication1.cpp
+c:\users\ady\desktop\learning\consoleapplication1\consoleapplication1\MyForm.h(5): error C2871: 'System' : a namespace with this name does not exist
+c:\users\ady\desktop\learning\consoleapplication1\consoleapplication1\MyForm.h(6): error C2653: 'System' : is not a class or namespace name
+c:\users\ady\desktop\learning\consoleapplication1\consoleapplication1\MyForm.h(6): error C2871: 'ComponentModel' : a namespace with this name does not exist
+c:\users\ady\desktop\learning\consoleapplication1\consoleapplication1\MyForm.h(7): error C2653: 'System' : is not a class or namespace name
+c:\users\ady\desktop\learning\consoleapplication1\consoleapplication1\MyForm.h(7): error C2871: 'Collections' : a namespace with this name does not exist
+c:\users\ady\desktop\learning\consoleapplication1\consoleapplication1\MyForm.h(8): error C2653: 'System' : is not a class or namespace name
+c:\users\ady\desktop\learning\consoleapplication1\consoleapplication1\MyForm.h(8): error C2871: 'Forms' : a namespace with this name does not exist
+c:\users\ady\desktop\learning\consoleapplication1\consoleapplication1\MyForm.h(9): error C2653: 'System' : is not a class or namespace name
+c:\users\ady\desktop\learning\consoleapplication1\consoleapplication1\MyForm.h(9): error C2871: 'Data' : a namespace with this name does not exist
+c:\users\ady\desktop\learning\consoleapplication1\consoleapplication1\MyForm.h(10): error C2653: 'System' : is not a class or namespace name
+c:\users\ady\desktop\learning\consoleapplication1\consoleapplication1\MyForm.h(10): error C2871: 'Drawing' : a namespace with this name does not exist
+c:\users\ady\desktop\learning\consoleapplication1\consoleapplication1\MyForm.h(15): error C2059: syntax error : 'public'
+c:\users\ady\desktop\learning\consoleapplication1\consoleapplication1\MyForm.h(15): error C2653: 'System' : is not a class or namespace name
+c:\users\ady\desktop\learning\consoleapplication1\consoleapplication1\MyForm.h(16): error C2143: syntax error : missing ';' before '{'
+c:\users\ady\desktop\learning\consoleapplication1\consoleapplication1\MyForm.h(16): error C2447: '{' : missing function header (old-style formal list?)
